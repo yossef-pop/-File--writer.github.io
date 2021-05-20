@@ -1,3 +1,7 @@
+@font-face {
+  font-family: kedem;
+  src: url(https://alefalefalef.co.il/font/kedem/);
+}
 
 body {
     text-align: center;
@@ -6,3 +10,9 @@ body {
     background-image: url('/w3images/forestbridge.jpg');
 }
 
+input[type="file" i] {
+  
+     font-family: kedem;
+ 
+    
+}
